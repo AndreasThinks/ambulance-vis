@@ -5,3 +5,12 @@ pre-commit
 pytest
 Sphinx
 toml
+jupyter
+seaborn
+statsmodels
+scikit-learn
+geopandas
+OSMPythonTools
+pyrosm
+folium
+xlrd
